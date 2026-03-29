@@ -14,5 +14,8 @@ Product A = 20
 Product B = 15  
 Maximum Profit = 850  
 
+## Graph
+![Graph](graph.png)
+
 ## Author
 Shreya Khodake
